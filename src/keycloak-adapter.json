@@ -1,0 +1,8 @@
+{
+  "realm": "China-OP",
+  "auth-server-url": "https://172.16.8.27/auth/",
+  "ssl-required": "external",
+  "resource": "example-web-service-gin",
+  "public-client": true,
+  "confidential-port": 0
+}
